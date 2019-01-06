@@ -6,7 +6,7 @@ I just moved to an area where it is possible to spot planes and as you may not k
 
 Anyways, I just learned that all modern airplanes have a system on board, called [ADS-B](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast) - the _Automatic dependent surveillance—broadcast_. In fact, the aircraft determines its position via GPS and broadcasts that data continuously. This data is not just limited to the position of the plane, no, it transmits also the current altitude, the speed and the flight number. Generally speaking the system is for security purposes of course. Other airplanes receives this data and pilots can see this information in their in-cockpit flight displays.
 
-Security is cool for sure, but another cool aspect: You can receive this data as well:
+Security is cool for sure, but another cool aspect: You can receive this data as well!
 
 ![dump1090 in action](screenshot.png)
 
